@@ -1,0 +1,17 @@
+---
+title: "My Submission"
+output: html_document
+Auther: Natalie Reynard
+date: "2026-10-08"
+---
+
+## this is my level 2 header 
+
+1. i dont like version contol 
+2. its aim seems to be to make me hate R studio
+3. i think r studio is playing tricks on me
+
+```{r}
+1+1
+```
+
