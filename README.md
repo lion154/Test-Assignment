@@ -1,8 +1,9 @@
 # Test-Assignment
-Natalie Reynard
 This is a test assignment for the Data Science in EES course.
 
 To complete this assignment please do not use the website GUI unless specifically instructed - this activity is getting you used to interfacing with Github through R studio:
+
+second name, Natalie reynard 
 
 1. Fork this repository to your own GitHub account.
 2. Clone the repository to your own computer using RStudio.
